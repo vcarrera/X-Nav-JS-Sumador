@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <script type="text/javascript" charset="utf-8" src='./html-javascript.js'>
+        <p>Adder...<span id='op'>5+3</span>
+        <span id="res"></span> <a href="">Add!</a></p>
+    </body>
+</html>    
