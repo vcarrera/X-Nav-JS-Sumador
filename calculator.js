@@ -7,3 +7,9 @@ function add(){
         var res = document.getElementById("res");
         res.innerHTML="="+c.toString();
     };
+
+function rand(){
+        var vari = document.getElementById("op");
+        vari.innerHTML=(Math.floor(Math.random()*10+1)+"+"+Math.floor(Math.random()*10+1));
+}
+
